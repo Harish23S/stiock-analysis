@@ -1,0 +1,23 @@
+.menuItems{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.Navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.Navbar a{
+  padding: 0px 10px;
+}
+
+footer{
+  display: block;
+}
+
+footer p{
+  text-align: center;
+}
